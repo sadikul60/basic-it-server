@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "123a12",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Microsoft word",
+        "image_url": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
+        "details": "MS word and MS office suite for students help to transmit educational materials and practice systematically in school and university faster with higher quality. Microsoft Word lets you create simple word processing documents like letters and reports, You can add color, You can use clip art, You can write in a variety of fonts and sizes, You can use tables, borders & bullet formatting, You can format the text & the general page layout so that you can make the page look more."
+      },
+    {
+        "_id": "123b13",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Graphics Design & Freelancing Tips",
+        "image_url": "https://www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg",
+        "details": "According to the American Institute of Graphic Arts (AIGA), graphic design is defined as “the art and practice of planning and projecting ideas and experiences with visual and textual content.” In other terms, graphic design communicates certain ideas or messages in a visual way. Graphic design is the practice of composing and arranging the visual elements of a project. Designing the layout of a magazine, creating a poster for a theatre performance, and designing packaging for a product are all examples of graphic design."
+      },
+    {
+        "_id": "123c14",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Web Design basic to advance",
+        "image_url": "https://miro.medium.com/max/915/0*4DpFVUP_VfkhzSIL",
+        "details": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips. A web designer is responsible for creating the design and layout of a website or web pages. It and can mean working on a brand new website or updating an already existing site."
+      },
+    {
+        "_id": "123d15",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Game Development core concept",
+        "image_url": "https://cdn-images-1.medium.com/max/2600/1*jMDG7pTIaVeP5bQnE1RuXg.png",
+        "details": "Game development: The act of creating a game; sometimes referred to as “gamedev.” The game development process typically requires input from one or more game designers, artists, programmers, animators, testers, project managers, etc., though some games have been created by just one or two game developers. Video game developers take a designer's concepts and build them into a playable game for users. Video game developers, also known as games developers or video game programmers, write code for games for a variety of formats, such as PCs, consoles, web browsers and mobile phones."
+      },
+    {
+        "_id": "123e16",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Web Development advace",
+        "image_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site. Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages."
+      },
+    {
+        "_id": "123f17",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Mobile Development advace",
+        "image_url": "https://cdn.acodez.in/wp-content/uploads/2022/03/What-is-a-mobile-app-feature-image.jpg",
+        "details": "Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Firstly Java was the official language for Android App Development (but now it was replaced by Kotlin) and consequently, it is the most used language as well. Many of the apps in the Play Store are built with Java, and it is also the most supported language by Google."
+      }
+]
