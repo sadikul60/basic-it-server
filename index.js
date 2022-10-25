@@ -6,10 +6,22 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require('./data/course.json')
+const categories = require('./data/categories.json');
+const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
     res.send('Basic IT server is running')
+});
+
+app.get('/categories', (req, res) => {
+    res.send(categories);
+});
+
+app.get('/categories/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    
+    const category = categories.find(c => c.id === id);
+    res.send(category);
 });
 
 app.get('/courses', (req, res) => {
@@ -17,11 +29,13 @@ app.get('/courses', (req, res) => {
 });
 
 app.get('/courses/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    
-    const course = courses.find(c => c.id === id);
-    res.send(course);
+    const id = req.params.id;
+    const selectCourse = courses.find(c => c._id === id);
+    res.send(selectCourse);
 })
+
+
+
 
 app.listen(port, () => {
     console.log(`Basic IT running on port, ${port}`)
