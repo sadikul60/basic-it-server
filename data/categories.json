@@ -1,26 +1,26 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "MS Office"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Graphics Design"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Web Design"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Game Development"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Web Development"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Mobile Development"
     }
 ]

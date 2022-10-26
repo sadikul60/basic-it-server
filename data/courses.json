@@ -5,7 +5,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "01",
+        "category_id": "1",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Microsoft Word Advance",
@@ -18,7 +18,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "02",
+        "category_id": "2",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Graphics Design & Freelancing Tips",
@@ -31,7 +31,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "03",
+        "category_id": "3",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Web Design basic to Advance",
@@ -44,7 +44,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "04",
+        "category_id": "4",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Game Development core Concept",
@@ -57,7 +57,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "05",
+        "category_id": "5",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Web Development Advance",
@@ -70,7 +70,7 @@
           "is_todays_pick": false,
           "is_trending": true
         },
-        "id": "06",
+        "category_id": "6",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
         "title": "Mobile Development advance",
